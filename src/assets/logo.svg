@@ -1,0 +1,23 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e94c89" />
+      <stop offset="50%" stop-color="#db2777" />
+      <stop offset="100%" stop-color="#9d174d" />
+    </linearGradient>
+  </defs>
+  <!-- 外部圆环 -->
+  <circle cx="24" cy="24" r="22" stroke="url(#gradient)" stroke-width="3" fill="none" />
+  
+  <!-- 内部大脑形状 -->
+  <path d="M24 10C17.4 10 12 15.4 12 22C12 26.4 14.4 30.1 18 32V36C18 36.6 18.4 37 19 37H29C29.6 37 30 36.6 30 36V32C33.6 30.1 36 26.4 36 22C36 15.4 30.6 10 24 10Z" fill="url(#gradient)" />
+  
+  <!-- 脑电波 -->
+  <path d="M18 19C18 19 20 15 24 15C28 15 30 19 30 19" stroke="white" stroke-width="1.5" stroke-linecap="round" />
+  <path d="M18 23C18 23 20 19 24 19C28 19 30 23 30 23" stroke="white" stroke-width="1.5" stroke-linecap="round" />
+  <path d="M18 27C18 27 20 23 24 23C28 23 30 27 30 27" stroke="white" stroke-width="1.5" stroke-linecap="round" />
+  
+  <!-- A字母 -->
+  <path d="M23 29L21 34H25L27 29H23Z" fill="white" />
+  <path d="M24 27L22 34H26L24 27Z" fill="white" />
+</svg> 
